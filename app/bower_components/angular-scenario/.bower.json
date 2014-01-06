@@ -1,0 +1,18 @@
+{
+  "name": "angular-scenario",
+  "version": "1.2.8-build.2074+sha.821ed31",
+  "main": "./angular-scenario.js",
+  "dependencies": {
+    "angular": "1.2.8-build.2074+sha.821ed31"
+  },
+  "homepage": "https://github.com/angular/bower-angular-scenario",
+  "_release": "1.2.8-build.2074+sha.821ed31",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2.8-build.2074+sha.821ed31",
+    "commit": "17a9cee56a58912b13e1f7541f70e7888c316877"
+  },
+  "_source": "git://github.com/angular/bower-angular-scenario.git",
+  "_target": "~1.2.6",
+  "_originalSource": "angular-scenario"
+}
